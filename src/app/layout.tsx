@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'ASDL - Advanced Semiconductor and Display Lab',
-  description: 'Advanced Semiconductor and Display Lab at IIT (BHU), Varanasi',
+  description: 'Advanced Semiconductor and Display Lab at IIT Mandi, Mandi',
   icons: {
     icon: '/Untitled8-1.png',
     shortcut: '/Untitled8-1.png',
