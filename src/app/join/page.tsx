@@ -24,7 +24,7 @@ export default function Join() {
             </ul>
           </div>
           <div className="bg-gray-800 rounded-lg shadow-md p-6 transition-all duration-300 hover:border-2 hover:border-blue-400 hover:shadow-[0_0_15px_rgba(59,130,246,0.5)] hover:-translate-y-1 group">
-            <h3 className="text-xl font-semibold text-white mb-2 group-hover:text-blue-400 transition-colors duration-300">Ph.D. & Master's Programs</h3>
+            <h3 className="text-xl font-semibold text-white mb-2 group-hover:text-blue-400 transition-colors duration-300">Ph.D. &amp; Master&apos;s Programs</h3>
             <ul className="list-disc list-inside text-gray-300 mb-4">
               <li className="group-hover:text-gray-200 transition-colors duration-300">
                 Prospective students are encouraged to visit the official IIT MANDI website for detailed information on
