@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <Image src="/images/Untitled5_page-0001.jpg" alt="ASDL Logo" width={80} height={80} className="mr-2" />
+              <Image src="/images/Untitled8_page-0001.jpg" alt="ASDL Logo" width={80} height={80} className="mr-2" />
               <span className="text-2xl font-bold text-white">ASDL</span>
             </Link>
           </div>
