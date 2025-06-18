@@ -36,7 +36,7 @@ export default function RavindraProfile() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-white mb-4">Awards</h2>
               <ul className="list-disc pl-5 text-gray-300">
-                <li>The Best Thesis Award for the Ph.D. thesis entitled "A Study on Metal-Oxide Based High-k Dielectrics and Semiconductors for Thin-film Transistors".</li>
+                <li>The Best Thesis Award for the Ph.D. thesis entitled &quot;A Study on Metal-Oxide Based High-k Dielectrics and Semiconductors for Thin-film Transistors&quot;.</li>
                 <li>Outstanding Research Award from BK-21 (BK21FOUR Innovation Institute for cutting-edge AR/VR hardware technology education).</li>
                 <li>Presidential Scholarship from Korean Government.</li>
               </ul>
@@ -53,7 +53,7 @@ export default function RavindraProfile() {
               <h3 className="text-xl font-semibold text-white mb-2">Master of Engineering</h3>
               <ul className="list-disc pl-5 text-gray-300 mb-4">
                 <li>Department of Information Display, Kyung Hee University, Seoul, South Korea.</li>
-                <li>Thesis: "A Study on Solution-Processed Amorphous Metal Oxide and Their Applications to Thin-Film Transistors"</li>
+                <li>Thesis: &quot;A Study on Solution-Processed Amorphous Metal Oxide and Their Applications to Thin-Film Transistors&quot;</li>
               </ul>
 
               <h3 className="text-xl font-semibold text-white mb-2">Bachelors of Engineering</h3>

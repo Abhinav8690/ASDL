@@ -16,7 +16,7 @@ export default function Join() {
             <h3 className="text-xl font-semibold text-white mb-2 group-hover:text-blue-400 transition-colors duration-300">Current Students</h3>
             <ul className="list-disc list-inside text-gray-300 mb-4">
               <li className="group-hover:text-gray-200 transition-colors duration-300">
-                <strong className="group-hover:text-blue-300 transition-colors duration-300">B.Tech</strong> students of the department can work on their UG projects & exploratory projects.
+                <strong className="group-hover:text-blue-300 transition-colors duration-300">B.Tech</strong> students of the department can work on their UG projects &amp; exploratory projects.
               </li>
               <li className="group-hover:text-gray-200 transition-colors duration-300">
                 <strong className="group-hover:text-blue-300 transition-colors duration-300">M.Tech</strong> students can explore thesis opportunities.
