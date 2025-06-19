@@ -191,7 +191,7 @@ export default function Team() {
                         </Link>
                       </li>
                       <li className="mb-2">
-                        <Link href="/Cv.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline hover:text-blue-400 transition-colors duration-300">
+                        <Link href="https://ravindrabukke.tiiny.site/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline hover:text-blue-400 transition-colors duration-300">
                           CV
                         </Link>
                       </li>
